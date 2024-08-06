@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"P",
+				"Projects"
+			],
+			[
+				"b",
+				"br"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Geneva Portfolio/index.html",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/css/style.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap/css/bootstrap.css",
+		"/C/xampp/htdocs/Geneva Portfolio/404.html",
+		"/C/Users/pc/Documents/404/yeti-404-page/dist/404.html",
+		"/C/Users/pc/Documents/404/yeti-404-page/src/index.html",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/js/jquery-3.7.1.min.js",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/purecounter/purecounter_vanilla.js",
+		"/C/xampp/htdocs/Geneva Portfolio/portfolio-details.html",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/js/main.js",
+		"/C/xampp/htdocs/Geneva Portfolio/forms/contact.php",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/css/404.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/js/script.js",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/js/jquery.min.js",
+		"/C/Users/pc/Downloads/DevFolio/assets/css/style.css",
+		"/C/Users/pc/Downloads/Personal/index.html",
+		"/C/Users/pc/Downloads/Personal/assets/css/style.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap/css/bootstrap-utilities.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap/js/bootstrap.bundle.js",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/swiper/swiper-bundle.min.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/boxicons/css/boxicons.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap/css/bootstrap.rtl.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/glightbox/js/glightbox.js",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/js/flashingletters.js",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap-icons/bootstrap-icons.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/bootstrap/css/bootstrap-grid.css",
+		"/C/xampp/htdocs/Geneva Portfolio/assets/vendor/php-email-form/validate.js",
+		"/C/Users/pc/Downloads/Folio/assets/css/style.css",
+		"/C/Users/pc/Downloads/iPortfolio/assets/css/style.css",
+		"/C/Users/pc/Downloads/iPortfolio/inner-page.html",
+		"/C/Users/pc/Downloads/PythonAnywhere-Resume-Template-master/index.html",
+		"/C/Users/pc/Desktop/Personal/assets/vendor/glightbox/js/script.js",
+		"/C/Users/pc/Desktop/Personal/index.html",
+		"/C/Users/pc/Desktop/Personal/assets/css/style.css",
+		"/C/Users/pc/Desktop/Personal/assets/vendor/boxicons/css/body.css",
+		"/C/Users/pc/Downloads/sublime_text_build_4169_x64_setup (1).exe",
+		"/C/Users/pc/Downloads/sublime_text_build_4169_x64_setup.exe"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio-details.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
